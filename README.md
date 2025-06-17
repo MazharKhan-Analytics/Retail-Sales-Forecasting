@@ -56,4 +56,4 @@ Total Orders = DISTINCTCOUNT(Sales[Order ID])
 
 Here’s a preview of the Power BI dashboard:
 
-![Power BI Dashboard Screenshot](images/dashboard-screenshot.png)
+![Power BI Dashboard Screenshot](dashboard-screenshot.PNG)
