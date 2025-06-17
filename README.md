@@ -43,7 +43,7 @@ Total Orders = DISTINCTCOUNT(Sales[Order ID])
 
 ---
 
-## 🎨 Design & Formatting Highlights
+## 🎨 Design & Formatting
 
 - Clean, well-organized layout with clear separation between visuals and slicers  
 - Applied conditional formatting to highlight sales intensity by region  
