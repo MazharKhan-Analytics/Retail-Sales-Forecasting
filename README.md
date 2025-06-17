@@ -50,4 +50,10 @@ Total Orders = DISTINCTCOUNT(Sales[Order ID])
 - Used color-coded insights for better readability (e.g., green for high profit, red for low)  
 - Included a "Reset Filter" button to enhance user experience and navigation  
 - Maintained consistent spacing, font sizes, and alignment across all visual elements  
-- Chose appropriate chart types for each insight to ensure clarity and impact  
+- Chose appropriate chart types for each insight to ensure clarity and impact
+
+  ## Dashboard Preview
+
+Here’s a preview of the Power BI dashboard:
+
+![Power BI Dashboard Screenshot](images/dashboard-screenshot.png)
