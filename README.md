@@ -2,6 +2,7 @@
 
 A dynamic and interactive **Power BI dashboard** focused on analyzing regional retail sales, profit, discounts, and product performance. This project demonstrates how raw data can be transformed into clear, actionable insights to support decision-making in a retail business.
 
+---
 
 ## 📊 Project Overview
 
@@ -38,10 +39,15 @@ Total Sales = SUM(Sales[Sales])
 Total Profit = SUM(Sales[Profit])
 Average Discount = AVERAGE(Sales[Discount])
 Total Orders = DISTINCTCOUNT(Sales[Order ID])
+```
 
-**🎨 Design & Formatting**
-Clean layout with logical separation of visuals and filters
-Conditional formatting applied to sales by region map
-Color-coded performance (e.g., green for high profit, red for low)
-“Reset Filter” button for better user experience
-Consistent spacing, alignment, and visual hierarchy
+---
+
+## 🎨 Design & Formatting Highlights
+
+- Clean, well-organized layout with clear separation between visuals and slicers  
+- Applied conditional formatting to highlight sales intensity by region  
+- Used color-coded insights for better readability (e.g., green for high profit, red for low)  
+- Included a "Reset Filter" button to enhance user experience and navigation  
+- Maintained consistent spacing, font sizes, and alignment across all visual elements  
+- Chose appropriate chart types for each insight to ensure clarity and impact  
