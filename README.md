@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis Dashboard
+# 🛍️ Retail Sales Analysis 
 
 A dynamic and interactive **Power BI dashboard** focused on analyzing regional retail sales, profit, discounts, and product performance. This project demonstrates how raw data can be transformed into clear, actionable insights to support decision-making in a retail business.
 
